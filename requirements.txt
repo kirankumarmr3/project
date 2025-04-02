@@ -1,0 +1,34 @@
+langchain
+python-dotenv 
+# to import and use .env file 
+ipykernel
+langchain-community
+pypdf
+bs4 
+# required to scrape data from web, also reqired when using "WebBaseLoader" from langchain
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
+langchain-openai
+chromadb
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+langchain_chroma
+duckdb
+pandas
+openai
+langchain-groq
+duckduckgo_search==5.3.1b1
+pymupdf
+arxiv
+wikipedia
+mysql-connector-python
+SQLAlchemy
+validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
+numexpr
+huggingface_hub
